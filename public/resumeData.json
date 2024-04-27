@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Hi, I'm Christian Sevilla",
+    "description": "A passionate Tech enthusiast determined to unleash the complete potential of full stack development and create a profound impact in the digital realm.",
+    "image": "profilepic.png",
+    "bio": "Hello, I'm Christian Roy Sevilla, a dedicated aspiring full-stack developer driven by my passion to make a meaningful impact in the digital realm. I am currently pursuing my studies at Lithan EduClaas, where I am specializing in Applied Degree in Software Engineering, and at University of Cebu - Banilad Campus, where I am majoring in Bachelor of Science in Information Technology. My fascination with technology began when I recognized the world's increasing reliance on technology and its transformative power.",
+    "contactmessage": "Get in Touch",
+    "email": "christiansevilla0007@gmail.com",
+    "phone": "+63 9954660667",
+    "github": "https://www.linkedin.com/in/christiansevilla-5961b01b5/",
+    "project": "https://www.youtube.com/watch?v=gQTLjJPOvgc",
+    "address": {
+      "city": "Cebu City",
+      "country": "Philippines",
+      "zip": "6000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://acrobat.adobe.com/id/urn:aaid:sc:AP:99153792-7afa-479d-948e-c17d1bb3263b",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/christian-roy-sevilla-5961b01b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Chriszy00",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "With expertise in HTML, CSS, JavaScript, Bootstrap, ReactJS, MySQL, Java, Spring Boot, REST API, and proficiency in Visual Studio Code, Eclipse JEE, and Spring Tool Suite 3, I am skilled in creating captivating websites, developing scalable applications, designing intuitive user experiences, and managing efficient databases. My proficiency enables me to deliver high-quality solutions that provide exceptional user experiences.",
+    "education": [
+      {
+        "school": "Lithan EduClaas",
+        "degree": "Higher Diploma in Software Engineering",
+        "graduated": "September 2022 - Present"
+      },
+      {
+        "school": "University of Cebu - Banilad Campus",
+        "degree": "Bachelor of Science in Information Technology",
+        "graduated": "August 2022 - Present"
+      },
+      {
+        "school": "University of Cebu - PRI",
+        "degree": "Secondary School",
+        "graduated": "August 2021 - June 2022"
+      }
+    ],
+    "work": [
+      {
+        "company": "MoveForward",
+        "title": "Software Engineer Intern",
+        "years": "March 2024 - Present",
+        "description": "Developed a Web Application using Odoo 13"
+      },
+      {
+        "company": "Avvanz",
+        "title": "Software Developer Intern",
+        "years": "November 2023 - December 2023",
+        "description": "Developed a Video Chat App using React, WebRTC, and Socket.IO\n Developed a Ticket System using React and Spring Boot"
+      },
+      {
+        "company": "Wipro",
+        "title": "Customer Care Associate",
+        "years": "September 2020 - December 2020",
+        "description": "Taking calls according to policies, procedures, and standards with defined quality\n Handling customer's concerns, queries, and complaints\n Staying updated with company policies and procedures \n Keeping company information secured amd confidential"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "78%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "79%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "81%"
+      },
+      {
+        "name": "MySQL",
+        "level": "74%"
+      },
+      {
+        "name": "JAVA",
+        "level": "79%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "81%"
+      },
+      {
+        "name": "REST API",
+        "level": "80%"
+      },
+      {
+        "name": "Visual Studio Code",
+        "level": "91%"
+      },
+      {
+        "name": "Eclipse JEE",
+        "level": "89%"
+      },
+      {
+        "name": "Spring Tool Suite 3",
+        "level": "92%"
+      }
+    ]
+  }
+}
